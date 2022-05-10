@@ -20,12 +20,6 @@ module.exports = () => {
         template: "./index.html",
         title: "J.A.T.E.",
       }),
-      new HtmlWebpackPlugin({
-        filename: "offline.html",
-        template: "./offline.html",
-        title: "OFFLINE",
-      }),
-
       // Injects our custom service worker
       new InjectManifest({
         swSrc: "./src-sw.js",
