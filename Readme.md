@@ -26,3 +26,5 @@ https://git.heroku.com/agile-brook-85922.git
 ## Authors
 
 - [Ernest Ramirez](https://github.com/ernest1589/Text-Editor)
+
+Thank you for your time!
